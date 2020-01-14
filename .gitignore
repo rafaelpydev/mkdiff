@@ -1,0 +1,6 @@
+__pycache__/
+.idea/
+tests/
+*.pyc
+test.py
+mkdiff.sh
